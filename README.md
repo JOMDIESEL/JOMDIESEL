@@ -1,4 +1,4 @@
-👋 Hi, I’m Phattharaphon Chamnonganuwat
+👋 Hi,My name is Phattharaphon Chamnonganuwat
   I am an amateur programmer interested in programming and software testing. /n
   Our world is changing with computer innovation. 
   We will move forward together with my continuous improvement. 
