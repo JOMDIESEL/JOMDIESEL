@@ -1,5 +1,5 @@
 👋 Hi,My name is Phattharaphon Chamnonganuwat
-  I am an amateur programmer interested in programming and software testing. /n
+  I am an beginner programmer which is interesting in programming and software testing. /n
   Our world is changing with computer innovation. 
   We will move forward together with my continuous improvement. 
   It's like a world that's always spinning, with no walls, no rules.
