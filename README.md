@@ -7,6 +7,8 @@ Welcome !!
   Only your passion can carry you forward.
 - 👀 I’m interested in Computer Programming, Investing, Coffee&Tea and Car.
 
+Knowledge sharing for robot framework :  https://sites.google.com/view/qa-thai 📮
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jomdiesel&theme=bear&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jomdiesel&theme=bear&hide_border=false)<br/>
